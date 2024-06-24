@@ -54,7 +54,7 @@ def format_data(account):
 
 Purpose: Compares the follower counts of two accounts and checks if the user's guess is correct. 
   
-  Parameters:
+ - Parameters:
   ~guess (string) - The user's guess ("a" or "b").
   ~a_followers (int) - Follower count of account A.
   ~b_followers (int) - Follower count of account B.
