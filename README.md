@@ -122,7 +122,7 @@ This documentation provides an overview of the Higher or Lower game, including t
 
 <h1 align="center">
    <a href="https://google.com">
-    <img src="./output .png">
+    <img src="./output.png">
    
     
 </h1>
