@@ -121,7 +121,7 @@ This documentation provides an overview of the Higher or Lower game, including t
 # 6 . OUTPUT :
 
 <h1 align="center">
-   <a href="https://google.com">
+   
     <img src="./output.png">
    
     
