@@ -120,12 +120,6 @@ This documentation provides an overview of the Higher or Lower game, including t
 
 # 6 . OUTPUT :
 
-<h1 align="center">
- <a href="https://google.com">
-    <img src="./output.png">
-   
-    
-</h1>
-
+![output](https://github.com/user-attachments/assets/c2b1c226-08d7-415c-a183-e39433c22e96)
 
 
